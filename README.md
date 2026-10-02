@@ -1,10 +1,15 @@
 # Mediroza General Hospital — Penetration Testing Project
 
 **Author:** Kritika Rai
+
 **Program:** Networkwalks Academy — Batch B083, Week 4
+
 **Target:** https://medirozahospital.com
+
 **Engagement type:** Black-box Penetration Test
+
 **Duration:** 5 Days
+
 
 > ⚠️ **Educational project only.** This test was carried out in a controlled training environment with written permission from the client. The techniques, tools and evidence in this repo must never be used against any real system without explicit written authorisation from its owner.
 
