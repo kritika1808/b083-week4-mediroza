@@ -100,7 +100,7 @@ Click any link to open that screenshot directly.
 
 ## Report
 
-👉 **[report/Mediroza_Pentest_Report.docx](./report/Mediroza_Pentest_Report.docx)**
+👉 **[report/Mediroza_Pentest_Report.pdf](./report/Mediroza_Pentest_Report.pdf)**
 
 Contains:
 1. Executive Summary
